@@ -25,7 +25,7 @@ nginx. для этого было создано правило audit.rules
 
 Для проерки дз необходимо выполнить команду
 
-```git clone https://github ```      
+```git clone https://github.com/khromenokroman/logging ```      
 
 И запускаем развертывание виртуальных машин:     
 ```vagrant up```     
